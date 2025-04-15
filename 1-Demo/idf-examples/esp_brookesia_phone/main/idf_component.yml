@@ -1,0 +1,13 @@
+## IDF Component Manager Manifest File
+dependencies:
+  espressif/esp_wifi_remote:
+    version: "0.*"
+    
+  espressif/esp_hosted:
+    version: "0.*"
+
+  espressif/esp-brookesia:
+    version: "0.4.*"
+
+  esp_video:
+    path: ../../../managed_components/esp_video
