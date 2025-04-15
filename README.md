@@ -1,0 +1,1 @@
+# GUITION ESP32-P4 + ESP32-C6 with 10.1" touch display (JC8012P4A1C-I-W-Y1)
